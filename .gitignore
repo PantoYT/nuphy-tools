@@ -3,3 +3,4 @@ state/
 __pycache__/
 desktop.ini
 .impeccable/
+.env

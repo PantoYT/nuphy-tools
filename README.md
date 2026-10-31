@@ -7,7 +7,11 @@ map you set up. Smooth steering in racing games and Rocket League, no controller
 NuPhyIO has a "Gamepad Simulation" for the original Field75 HE, but it is disabled for the V2.
 This tool reads the same key travel data NuPhyIO's Key Travel page shows, over USB HID.
 
-Unofficial, not affiliated with NuPhy.
+Unofficial, not affiliated with NuPhy. A small novelty tool for one keyboard: for analog input
+from many hall effect keyboards (Wooting, NuPhy, DrunkDeer, Razer, Keychron, ...), see
+[AnalogSense](https://github.com/AnalogSense) and its Universal Analog Plugin for the Wooting
+Analog SDK. Their Field75 HE V2 support uses the protocol notes from here
+(calamity-inc/Soup#192, AnalogSense/JavaScript-SDK#14).
 
 ## Key map
 
